@@ -28,3 +28,14 @@ The encoded sequence can then be decoded back to its original nucleotide sequenc
 >>>len(decoded_seq)
 16
 ```
+
+## Installation
+
+You can do:
+```pip install -e git+https://github.com/jordangumm/nucompress.git#egg=nucompress```
+
+nucompress was built and tested under Python 2.7.x
+
+## Support
+
+Please ask questions and file issues [on Github](https://github.com/jordangumm/nucompress/issues).
